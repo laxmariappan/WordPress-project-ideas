@@ -1,3 +1,7 @@
+---
+level: "Beginner|Intermediate|Advanced"
+---
+
 # App Idea
 
 ## Description / Objective
