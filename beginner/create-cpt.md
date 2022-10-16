@@ -1,5 +1,4 @@
 ---
-title: "Create Custom Post Type (CPT)"
 level: "Beginner"
 ---
 
